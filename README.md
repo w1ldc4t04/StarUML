@@ -45,19 +45,19 @@
 
 ![image](https://github.com/w1ldc4t04/StarUML/blob/main/5-1.png)
 
-![image](https://github.com/qwertidy/Starmul/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-10-20%20121030.png)
+![image](https://github.com/w1ldc4t04/StarUML/blob/main/5-2.png)
 <h2>六、繪製類別圖</h2>
 
-![image](https://github.com/qwertidy/Starmul/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-10-20%20121036.png)
+![image](https://github.com/w1ldc4t04/StarUML/blob/main/6.png)
 <h2>七、繪製狀態圖</h2>
 
-![image](https://github.com/qwertidy/Starmul/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-10-20%20214747.png)
+![image](https://github.com/w1ldc4t04/StarUML/blob/main/7.png)
 <h2>八、繪製順序圖</h2>
 
-![image](https://github.com/qwertidy/Starmul/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-10-21%20162057.png)
+![image](https://github.com/w1ldc4t04/StarUML/blob/main/8.jpg)
 <h2>九、繪製活動圖</h2>
 
-![image](https://github.com/qwertidy/Starmul/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-10-21%20164800.png)
+![image](https://github.com/w1ldc4t04/StarUML/blob/main/9.jpg)
 
 
 <h2>資料來源 : https://www.cnblogs.com/yibo886/p/18146044</h2>
