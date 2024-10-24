@@ -1,0 +1,13 @@
+@startuml
+actor 會員
+
+usecase 提交訂單 as "提交訂單"
+usecase 查看所有訂單 as "查看所有訂單"
+usecase 查看單個訂單信息 as "查看單個訂單信息"
+usecase 取消訂單 as "取消訂單"
+
+會員 --> 提交訂單
+會員 --> 查看所有訂單
+會員 --> 查看單個訂單信息
+會員 --> 取消訂單
+@enduml
