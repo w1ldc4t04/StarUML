@@ -43,7 +43,7 @@
 
 
 
-![image](https://github.com/w1ldc4t04/StarUML/blob/main/5-1.png)
+![image](https://github.com/w1ldc4t04/StarUML/blob/main/1-1.jpeg)
 
 ![image](https://github.com/w1ldc4t04/StarUML/blob/main/5-2.png)
 <h2>六、繪製類別圖</h2>
