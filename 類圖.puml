@@ -1,0 +1,28 @@
+@startuml
+class 用戶登錄界面類 {
+    +顯示登錄界面()
+    +接收輸入()
+}
+
+class 用戶登錄界面控制類 {
+    +Authenticate()
+    +Jump()
+}
+
+class 用戶類 {
+    -username: String
+    -password: String
+    +Read()
+}
+
+class 數據庫操作類 {
+    -datebasestr: String
+    -selectstr: String
+    +Select()
+    +Connect()
+}
+
+用戶登錄界面控制類 --> 用戶登錄界面類
+用戶類 --> 用戶登錄界面控制類
+數據庫操作類 --> 用戶類
+@enduml
