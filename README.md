@@ -45,19 +45,19 @@
 
 ![image](https://github.com/w1ldc4t04/StarUML/blob/main/1-1.jpeg)
 
-![image](https://github.com/w1ldc4t04/StarUML/blob/main/5-2.png)
+![image](https://github.com/w1ldc4t04/StarUML/blob/main/1-2.jpeg)
 <h2>六、繪製類別圖</h2>
 
-![image](https://github.com/w1ldc4t04/StarUML/blob/main/6.png)
+![image](https://github.com/w1ldc4t04/StarUML/blob/main/2.jpeg)
 <h2>七、繪製狀態圖</h2>
 
-![image](https://github.com/w1ldc4t04/StarUML/blob/main/7.png)
+![image](https://github.com/w1ldc4t04/StarUML/blob/main/3.jpeg)
 <h2>八、繪製順序圖</h2>
 
-![image](https://github.com/w1ldc4t04/StarUML/blob/main/8.jpg)
+![image](https://github.com/w1ldc4t04/StarUML/blob/main/4.png)
 <h2>九、繪製活動圖</h2>
 
-![image](https://github.com/w1ldc4t04/StarUML/blob/main/9.jpg)
+![image](https://github.com/w1ldc4t04/StarUML/blob/main/5.jpeg)
 
 
 <h2>資料來源 : https://www.cnblogs.com/yibo886/p/18146044</h2>
